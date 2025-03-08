@@ -91,9 +91,9 @@ The script provides detailed progress information during execution:
 Progress: 5000/48317 tracks processed (10.3%) - ETA: 0h 52m 31s
 Current stats: 213 in sync, 854 synced, 3812 no tags, 2 errors, 119 not found
 ```
-**In sync**: Tracks where ratings already match between Plex and file
-**Synced**: Tracks that would be/were updated to match the master source
-**No tags**: Tracks with no ratings in either Plex or file
-**Errors**: Issues encountered during processing
-**Not found**: Tracks in Plex that couldn't be matched to local files
+- **In sync**: Tracks where ratings already match between Plex and file
+- **Synced**: Tracks that would be/were updated to match the master source
+- **No tags**: Tracks with no ratings in either Plex or file
+- **Errors**: Issues encountered during processing
+- **Not found**: Tracks in Plex that couldn't be matched to local files
 
