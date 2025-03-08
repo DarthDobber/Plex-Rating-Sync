@@ -1,3 +1,9 @@
+## Disclaimer
+
+This repository is a fork of [Mythic82/Plex-Rating-Sync](https://github.com/Mythic82/Plex-Rating-Sync). The core functionality of the Plex rating sync script was created by [Mythic82](https://github.com/Mythic82). My contribution focuses solely on adding progress tracking and status reporting features to improve usability during long-running operations. All credit for the original implementation and rating synchronization logic belongs to the original author.
+
+If you find this tool useful, please consider starring the original repository at [Mythic82/Plex-Rating-Sync](https://github.com/Mythic82/Plex-Rating-Sync).
+
 # Plex Rating Sync
 
 Plex-Rating-Sync is a Python script that synchronizes ratings between Plex and your music files' tags. It supports two-way synchronization with a preference for Plex ratings, ensuring your music library stays consistently rated across different platforms.
